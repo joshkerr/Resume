@@ -17,19 +17,19 @@ University of Texas at Austin
 
 **Programming Languages**
 
- > Proficient in:  PHP, Ruby, SML/NJ, HTML, CSS, JavaScript, C, Java, SQL (MySQL, SQLite), Bash
+ > Proficient in:  C#, Objective C, HTML, CSS, JavaScript, C, SQL (MySQL, MSSQL)
 
- > Experience with: F#, Python, C++, MongoDB
+ > Experience with: Bash
 
 **Software**
 
- > I have experience using most modern development tools including Eclipse, Vim, Git and SVN. I have been using Linux for both personal and server use since 2002. I am also capable of using the majority of the Adobe Creative Suite.
+ > I have experience using most modern development tools including Microsoft Visual Studio and Apple's Xcode. I am also capable of using the majority of the Adobe Creative Suite.
 
 ## Experience
 
-### iFixit.com, San Luis Obispo CA
+### ABJK NewCo, Inc. (Zosh)
 
-#### Software Developer
+#### Co-founder, CEO
 
 ##### April 2009 - Present
 
