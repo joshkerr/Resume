@@ -31,14 +31,14 @@ University of Texas at Austin
 
 #### Co-founder, CEO
 
-##### April 2009 - Present
+##### April 2008 - Present
 
 I wear a variety of hats including -- but not limited to -- writing code to promote high quality content and a stable community, helping keep servers afloat, and working with users to develop content. I write code mainly in PHP and Bash, and almost all of our servers are on Amazon's EC2 Service. 
 
  * Helped create a site-wide reputation community, which began with [iFixit.com/Answers](http://ifixit.com/Answers)
  * Helped maintain various servers, located on Amazon EC2, and local development machines
 
-### Adobe Systems Incorporated, San Francisco CA
+### Ideal Science, Inc.
 
 #### Dreamweaver QE Intern
 
